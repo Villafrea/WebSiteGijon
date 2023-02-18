@@ -1,0 +1,681 @@
+
+
+.fondo{
+    background-color: #252525;
+    padding-right: 10%;
+    border-radius: 5px;
+}
+.fondo2{
+    background-color: #252525;
+    width: 102%;
+    padding-right:0%;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+.img{
+    margin-bottom: 0.5cm;
+    margin-top: 0.5cm;
+    margin-left: 3cm;
+    width: 10%;
+}
+
+.menu{
+    list-style: none;
+    padding: 0%;
+    background: #252525;
+    width:100%;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display:block
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+    margin-right:100px;
+}
+
+.menu li a:hover{
+    background:#035F44;
+}
+
+body{
+    background-color: bisque;
+}
+
+.intro{
+    color: white;
+    background-color:#035F44;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+#titulo1{
+    background-color:#252525;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#MenuGeo{
+        list-style: none;
+        padding: 0%;
+        background: #252525;
+        width:100%;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 10%;
+        text-align: center;
+        border-radius: 5px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+#MenuGeo li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display:block
+}
+#MenuGeo li{
+    display: inline-block;
+    text-align: center;
+    margin-right:80px;
+    margin-left: 80px;
+}
+
+#MenuGeo li a:hover{
+    background:#035F44;
+}
+
+
+
+#DefiGeo{
+    width: 50%;
+    background-color:#035F44;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+border-radius: 5px;
+padding: 5px;
+float: left;
+padding-left: 15px;
+}
+
+.img1{
+    width: 500px;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+}
+
+#Hidrografia{
+    background-color:#035F44;
+    margin-top: 100px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+
+#H3Hid{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+#Clima{
+    background-color: #035F44;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    float: right;
+    margin-top: 80px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 50%;
+    padding: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#H3Clim{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+
+.img2{
+    width: 500px;
+    display: block;
+    margin: auto;
+    float: left;
+    margin-top: 100px;
+    margin-left: 190px;
+}
+
+#titulo2{
+    background-color:#252525;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 550px;
+}
+#MenuHisto{
+    list-style: none;
+    padding: 0%;
+    background: #252525;
+    width:100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#MenuHisto li a{
+text-decoration: none;
+color: white;
+padding: 10px;
+display:block
+}
+
+#MenuHisto li{
+display: inline-block;
+text-align: center;
+margin-right:80px;
+margin-left: 80px;
+}
+
+#MenuHisto li a:hover{
+background:#035F44;
+}
+.img3{
+    width: 300px;
+    display: block;
+    margin: auto;
+    float: right;
+    margin-top: 120px;
+    margin-right: 190px;
+}
+#Prehistoria{
+    background-color:#035F44;
+    margin-top: 80px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+float: left;
+width: 65%;
+}
+#H3Prehistoria{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+
+#EdadAntigua{
+    background-color:#035F44;
+    margin-top: 80px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+float: left;
+width: 65%;
+}
+#H3EdadAnt{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+.img4{
+    width: 300px;
+    display: block;
+    margin: auto;
+    float: right;
+    margin-top: 120px;
+    margin-right: 190px;
+}
+#EdadMediaModerna{
+    background-color:#035F44;
+    margin-top: 80px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+float: left;
+width: 99%;
+}
+#H3EdadMeMo{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+
+#EdadContemporanea{
+    background-color:#035F44;
+    margin-top: 80px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+float: left;
+width: 99%;
+}
+#H3Contemp{
+    background-color: #252525;
+    text-align: center;
+    margin-right: 87%;
+    padding: 1px;
+border-radius: 5px;
+}
+
+#Industrializacion{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+#Revolución{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+#Franquismo{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+#Desindustrializacion{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+.titulo3{
+    background-color:#252525;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 3430px;
+}
+
+.MenuPatrimonio{
+    list-style: none;
+    padding: 0%;
+    background: #252525;
+    width:100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.MenuPatrimonio li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display:block
+}
+.MenuPatrimonio li{
+    display: inline-block;
+    text-align: center;
+    margin-right:80px;
+    margin-left: 80px;
+}
+
+.MenuPatrimonio li a:hover{
+    background:#035F44;
+}
+
+.ArquitecturaCivil{
+    background-color:#035F44;
+    margin-top: 80px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+
+.ArqCiv{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.ArquitecturaReligiosa{
+        background-color:#035F44;
+    margin-top: 20px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+.ArqRel{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.EspaciosNaturales{
+    background-color:#035F44;
+    margin-top: 20px;
+    border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+.EspNat{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+#Transporte{
+    background-color:#252525;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+#MenuTrans{
+    list-style: none;
+    padding: 0%;
+    background: #252525;
+    width:100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#MenuTrans li{
+    display: inline-block;
+    text-align: center;
+    margin-right:80px;
+    margin-left: 80px;
+}
+#MenuTrans li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display:block
+}
+#MenuTrans li a:hover{
+    background:#035F44;
+}
+
+#Terrestre{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color:#035F44;
+    border-radius: 5px;
+    padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+#Terr{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+#H3RedVial{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+
+#Tableterrestre{
+    background-color: #f8f9fa;
+    color: #202122;
+    margin: 1em ;
+    border: 1px;
+    display: table;
+    border:solid;
+    border-collapse: collapse;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    border:solid
+}
+tr{
+    background-color:white;
+    text-align: center;
+    border: solid;
+    border-collapse: collapse;
+}
+
+th{
+    border: solid;
+    border-collapse: collapse;
+}
+
+#h4Send{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+
+#imgSend{
+    width: 500px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+#imgCamocha{
+    width: 560px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+#imgCamino{
+    width: 560px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    margin-left:45px;
+}
+
+
+#h4Camino{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+#Ferrocarril{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color:#035F44;
+    border-radius: 5px;
+    padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+width: 50%;
+}
+#Ferr{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+.imgRenfe{
+    width: 500px;
+    display: block;
+    margin: auto;
+    float: right;
+    margin-top: 120px;
+    margin-right: 190px;
+    position:absolute;
+    right: 30px;
+    top:7020px;
+}
+
+#Maritimo{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color:#035F44;
+    border-radius: 5px;
+    padding-left: 15px;
+padding-top: 1px;
+padding-bottom: 1px;
+margin-top: 10px;
+}
+#Mar{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+
+#Aereo{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color:#035F44;
+    border-radius: 5px;
+    padding-left: 5px;
+padding-top: 1px;
+padding-bottom: 1px;
+margin-top: 10px;
+}
+#air{
+    background-color: #252525;
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
+form{
+	width:800px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+form input[type="text"],
+form input[type="email"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+} 
+
+form input[type="submit"]:hover{
+	cursor:pointer;
+}
+
+textarea{
+	width:100%;
+	height:100px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+	resize:none;
+	display:block;
+}
+
+footer{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+#correo{
+	font-size: 13px;
+}
+.boton{
+	width: 30px;
+    margin: auto;
+}
+

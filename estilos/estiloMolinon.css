@@ -1,0 +1,186 @@
+body{
+	background-color:#e20026;
+}
+
+.img{
+display: block;
+width: 600px;
+border: none;
+position: relative;
+margin: auto;
+padding: 50px;
+margin-bottom: 1px;
+}
+
+#titulo1{
+	text-align: center;
+	color:#e20026;
+	font-size: 30px;
+}
+
+#fondo{
+	background-color: white;
+	padding: 30px;
+	border-radius: 5px;
+	margin-left: 400px;
+	margin-right: 400px;
+	
+}
+
+#descripcion{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.molinon{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 10px;
+width: 60%;
+}
+
+#Ind{
+	text-align: center;
+	color: #e20026;
+}
+
+#Menu{
+	list-style: none;
+    padding: 0%;
+    background:#e20026;
+    width:70%;
+    margin: auto;
+    text-align: center;
+    border-radius:5px;
+}
+#Menu li{
+    display: inline-block;
+    text-align: center;
+    margin-right:80px;
+    margin-left: 80px;
+}
+#Menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display:block
+}
+#Menu li a:hover{
+    background:red;
+}
+
+.titulo2{
+	text-align: center;
+	color:#e20026;
+	font-size: 30px;
+}
+.defi{
+	background-color:aqua;
+	color: black;
+	padding: 1px;
+	border-radius: 5px;
+}
+
+.boton{
+	width: 30px;
+}
+
+#volver{
+	font-size: 13px;
+}
+#titulo3{
+	text-align: center;
+	color:#e20026;
+	font-size: 30px;
+}
+
+#sel{
+	text-align: center;
+	color:#e20026;
+}
+
+.partidos{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 70px;
+width: 80%;
+
+}
+
+#mund{
+	margin-top: 10px;
+	text-align: center;
+	color:#e20026;
+}
+
+.FOTOS{
+	background-color: black;
+	padding: 30px;
+	border-radius: 5px;
+	margin-left: 400px;
+	margin-right: 400px;
+	color: white;
+	margin-top: 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align: center;
+
+}
+
+.molinon1{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 70px;
+width: 60%;
+}
+
+.d1{
+	font-size: 13px;
+	color: white;
+}
+
+.molinon2{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 70px;
+width: 60%;
+}
+.molinon3{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 70px;
+width: 60%;
+}
+
+.escudo2{
+	display: block;
+	border: none;
+	position: relative;
+	margin: auto;
+	top: 10px;
+	bottom: 70px;
+width: 60%;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+#correo{
+	font-size: 13px;
+}
